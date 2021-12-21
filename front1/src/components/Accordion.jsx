@@ -1,4 +1,4 @@
-import Accordion from '@mui/material/Accordion';
+/* import Accordion from '@mui/material/Accordion';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import { styled } from '@mui/material/styles';
@@ -13,4 +13,4 @@ const AccordionDetailsStyled = styled((props) => <AccordionDetails {...props} />
   backgroundColor: '#ccc',
 }));
 
-export { AccordionStyled, AccordionSummaryStyled, AccordionDetailsStyled };
+export { AccordionStyled, AccordionSummaryStyled, AccordionDetailsStyled }; */
